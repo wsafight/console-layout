@@ -1,0 +1,4 @@
+packages:
+  - library/packages/*
+  - library
+  - test-apps/*
